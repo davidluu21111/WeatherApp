@@ -30,7 +30,7 @@ The **Weather App** is a full-stack application designed to retrieve and display
 
 ## Installation
 
-To run the game locally, follow these steps:
+To run the app locally, follow these steps:
 
 1. Clone the repository:
     ```bash
@@ -52,3 +52,4 @@ To run the game locally, follow these steps:
     npm install
     node server.js 
     ```
+5. Run the application on the local host `http://localhost:3000`. Enter the city you want to look for the weather, then it forecast thie city's weather in 5 days
