@@ -45,10 +45,10 @@ To run the game locally, follow these steps:
     cd weather-frontend
     npm install
     npm start 
-    ``
+    ``'
 4. Open a new terminal, navigate to the back end:
    ```bash
     cd ./WeatherApp/weather-backend
     npm install
     node server.js 
-    ``
+    ``'
