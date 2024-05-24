@@ -24,3 +24,35 @@ The **Weather App** is a full-stack application designed to retrieve and display
 
 ### API
 - **WeatherAPI**: Provides weather data including current conditions, forecasts, and historical data.
+
+## Prerequisites
+- **Node.js** : Ensure Node.js is installed on your machine. Download it from Node.js official website.
+
+## Installation
+
+To run the game locally, follow these steps:
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/yourusername/WeatherApp.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd WeatherApp
+    ```
+3. Navigate to the front end:
+   ```bash
+    cd weather-frontend
+    npm install
+    npm start 
+    ``
+4. Open a new terminal, navigate to the back end:
+   ```bash
+    cd ./WeatherApp/weather-backend
+    npm install
+    node server.js 
+    ``
+   
+  
+   
+
